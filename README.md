@@ -4,9 +4,9 @@ A rich repositery of BlobCat emojis, derived from Google's blob emojis
 Honestly I just made this because even though these emojis were everywhere, they weren't properly licensed or credited to the artist
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/105909412/230671855-4ad322f2-910c-40bd-8186-8d657c0d7765.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/105909412/230671855-4ad322f2-910c-40bd-8186-8d657c0d7765.gif">
- <img alt="BlobCats Banner" src="https://user-images.githubusercontent.com/105909412/230671855-4ad322f2-910c-40bd-8186-8d657c0d7765.gif">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DuckOfDisorder/BlobCats/raw/main/Banner.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/DuckOfDisorder/BlobCats/raw/main/Banner.gif">
+ <img alt="BlobCats Banner" src="https://github.com/DuckOfDisorder/BlobCats/raw/main/Banner.gif">
 </picture>
 
 ## Installation
