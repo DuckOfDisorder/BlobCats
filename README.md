@@ -16,7 +16,7 @@ Manifest.json todo
 Extract the archive and use the [Mastodon Emoji Importer](https://github.com/impiaaa/mastodon_import_emoji)
 
 ## Contribution
-All emojis are taken from https://blobs.gg/ and its subsidiary servers
+All emojis are taken from [Slackmojis](https://slackmojis.com/), [Blobs.gg](https://blobs.gg/) and its subsidiary servers
 
 A special thanks goes to [Siara-San](https://www.instagram.com/sairaa.jpg/) for creating some of these
 
