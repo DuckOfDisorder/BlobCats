@@ -12,9 +12,19 @@ Honestly I just made this because even though these emojis were everywhere, they
 ## Installation
 ### Pleroma
 
+run the following command for blobcats
+
 ```
-Manifest.json todo
+mix pleroma.emoji get-packs blobcats -m https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/manifest.json
 ```
+or, for the flipped version,
+```
+mix pleroma.emoji get-packs blobcats_flipped -m https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/manifest.json
+```
+
+Basically the entirety of this is stolen from [Volpeon](https://volpeon.ink/).
+
+I would say I'm grateful but that would imply I knew what I was doing.
 
 ### Mastodon
 Extract the archive and use the [Mastodon Emoji Importer](https://github.com/impiaaa/mastodon_import_emoji)
