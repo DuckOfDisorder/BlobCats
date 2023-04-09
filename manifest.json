@@ -1,0 +1,18 @@
+{
+    "blobcats": {
+        "description": "A rich repositery of BlobCat emojis, derived from Google's blob emojis",
+        "files":       "BlobCats.json",
+        "homepage":    "https://github.com/DuckOfDisorder/BlobCats/",
+        "src":         "https://github.com/DuckOfDisorder/BlobCats/raw/main/PNGs/PNGs.zip",
+        "src_sha256":  "9c205e069219fc8888c2b05432a210e73b58341dab05ea551e3b44e2f425ab83",
+        "license":     "Apache 2.0"
+    },
+    "blobfox_flipped": {
+        "description": "A rich repositery of Flipped BlobCat emojis, derived from Google's blob emojis",
+        "files":       "BlobCats.json",
+        "homepage":    "https://github.com/DuckOfDisorder/BlobCats/",
+        "src":         "https://github.com/DuckOfDisorder/BlobCats/raw/main/PNGsFlipped/PNGsFilpped.zip",
+        "src_sha256":  "9c205e069219fc8888c2b05432a210e73b58341dab05ea551e3b44e2f425ab83",
+        "license":     "Apache 2.0"
+    }
+}
