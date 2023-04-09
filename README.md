@@ -34,6 +34,8 @@ All emojis are taken from [Slackmojis](https://slackmojis.com/), [Blobs.gg](http
 
 A special thanks goes to [Siara-San](https://www.instagram.com/sairaa.jpg/) for creating some of these
 
+And also to straw for being a total sweetie and helping me with the code
+
 All SVG files were done by me by hand (TwT)
 
 The banner usees the Nova Round font by Wojciech Kalinowski
